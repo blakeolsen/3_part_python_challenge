@@ -1,0 +1,6 @@
+CandyBar,500
+PaperbackBook,700
+Detergent,1000
+Headphones,1400
+Earmuffs,2000
+BluetoothStereo,6000
